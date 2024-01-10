@@ -1,0 +1,8 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: logica, Configuração: Debug Any CPU ------
+1>C:\Users\gabri\Desktop\curso unity udemy\C#\logica\Program.cs(18,18,18,23): warning CS0219: A variável "idade" é atribuída, mas seu valor nunca é usado
+1>C:\Users\gabri\Desktop\curso unity udemy\C#\logica\Program.cs(19,17,19,23): warning CS0219: A variável "codigo" é atribuída, mas seu valor nunca é usado
+1>C:\Users\gabri\Desktop\curso unity udemy\C#\logica\Program.cs(20,18,20,24): warning CS0219: A variável "genero" é atribuída, mas seu valor nunca é usado
+1>C:\Users\gabri\Desktop\curso unity udemy\C#\logica\Program.cs(24,20,24,26): warning CS0219: A variável "medida" é atribuída, mas seu valor nunca é usado
+1>  logica -> C:\Users\gabri\Desktop\curso unity udemy\C#\logica\bin\Debug\logica.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
